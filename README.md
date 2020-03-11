@@ -17,7 +17,8 @@ know keymaps in X11.
 cd /usr/share/keymaps/i386/qwerty/
 sudo chown $USERNAME .
 sudo chgrp $USERNAME .
-git clone git@github.com:Freed-Wu/my-keymaps.git .
+git clone git@github.com:Freed-Wu/my-keymaps.git
+mv my-keymaps/* . && rm my-keymaps
 sudo echo KEYMAP=us-custom >> /etc/vconsole.conf
 ```
 
