@@ -8,8 +8,12 @@ Change <kbd>Alt_R</kbd> to <kbd>Esc</kbd> in console.
 
 **NOTE:** Only work in console.
 NOT X11.
+
 See [Freed-Wu/my-x11-keymaps](http://www.github.com/Freed-Wu/my-x11-keymaps) to
 know keymaps in X11.
+
+See [dual-key-remap](https://github.com/ililim/dual-key-remap) and
+[xkeymacs](https://github.com/fujieda/xkeymacs) to know keymaps in Window OS.
 
 ## Install ##
 
