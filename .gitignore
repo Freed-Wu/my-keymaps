@@ -1,6 +1,6 @@
-*
-!.gitignore
-!LICENSE
-!README.md
-!us-custom.map.gz
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/us-custom.map.gz
 
